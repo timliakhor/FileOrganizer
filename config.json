@@ -1,0 +1,6 @@
+{
+    "source_extensions": [".java", ".py", ".cpp"],
+    "tests_root_path": "src/test/java",
+    "excluded_folders": [".venv", ".idea", "node_modules", "target"],
+    "excluded_files": [".azure", ".DS_Store", ".gitignore"]
+}
